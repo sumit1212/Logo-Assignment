@@ -1,1 +1,4 @@
 # Logo-Assignment
+
+python detect_logo.py flickr_logos_27_dataset/flickr_logos_27_dataset_cropped_augmented_images/Adidas/test/2_18_144503924_Adidas_1_shiftW7_shiftH3_rot2.5_scale0.91.jpg 
+
